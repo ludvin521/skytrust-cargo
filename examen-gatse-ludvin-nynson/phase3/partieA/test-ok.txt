@@ -1,0 +1,1 @@
+SkyTrust Cargo Portal - Acces autorise pour CN=partenaire.cargo.skytrust.local

@@ -1,0 +1,4 @@
+/home/ludvin/exam-cargo/examen-gatse-ludvin-nynson/phase2/tracker-002.pem: revoked
+	This Update: May  3 13:04:44 2026 GMT
+	Reason: keyCompromise
+	Revocation Time: May  3 13:04:37 2026 GMT

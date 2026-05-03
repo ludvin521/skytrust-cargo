@@ -1,0 +1,12 @@
+{
+  "manifeste": {
+    "reference": "CARGO-2026-04-21-SK741",
+    "version": "1.0",
+    "emis_par": "SkyTrust Cargo Operations",
+    "date_emission": "2026-04-21T08:30:00Z"
+  },
+  "vol": {
+    "numero": "SK741",
+    "date": "2026-04-21"
+  }
+}

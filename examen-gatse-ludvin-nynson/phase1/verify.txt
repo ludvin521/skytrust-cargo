@@ -1,0 +1,1 @@
+/home/ludvin/exam-cargo/examen-gatse-ludvin-nynson/phase1/cargo-issuing.pem: OK
